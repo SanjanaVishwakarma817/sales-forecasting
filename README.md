@@ -29,3 +29,12 @@ sales-forecasting/
 │ └── sales_data.csv
 ├── README.md
 └── requirements.txt
+
+📂 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SanjanaVishwakarma817/sales-forecasting.git
+2. Install dependencies:
+   pip install -r requirements.txt
+4. Run the notebook:
+   jupyter notebook sales_forecasting.ipynb
